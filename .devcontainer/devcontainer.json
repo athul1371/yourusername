@@ -1,5 +1,5 @@
 {
-    "name": "ACADEMIC PAGES",
+    "name": "ATHUL C NAGESH",
     "dockerComposeFile": "../docker-compose.yaml",
     "service": "jekyll-site",
     "remoteEnv": {
